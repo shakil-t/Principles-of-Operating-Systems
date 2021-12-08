@@ -1,0 +1,3 @@
+[submodule "mynotepad"]
+	path = mynotepad
+	url = https://github.com/shakil-t/mynotepad.git
